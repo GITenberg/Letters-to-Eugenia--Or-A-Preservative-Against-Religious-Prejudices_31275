@@ -1,0 +1,33 @@
+_repo: Letters-to-Eugenia--Or-A-Preservative-Against-Religious-Prejudices_31275
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Middleton, Anthony C.
+    gutenberg_agent_id: '35114'
+    url: http://www.gutenberg.org/2009/agents/35114
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holbach, Paul Henri Thiry, baron d'
+    alias: D'Holbach, Baron
+    birthdate: 1723
+    deathdate: 1789
+    gutenberg_agent_id: '2420'
+    url: http://www.gutenberg.org/2009/agents/2420
+    wikipedia: http://en.wikipedia.org/wiki/Baron_d'Holbach
+description: ''
+gutenberg_issued: '2010-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Christianity -- Controversial literature'
+title: Letters to Eugenia; Or, A Preservative Against Religious Prejudices
+url: http://www.gutenberg.org/ebooks/31275
